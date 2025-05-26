@@ -1,0 +1,29 @@
+https://retoolapi.dev/msEo4e/expo
+See all available endpoints here (generated with json-server).
+Endpoint URL
+
+HTTP method endpoints
+
+GET
+/msEo4e/expo
+
+GET filter
+/msEo4e/expo?nombre=value
+
+GET by id
+/msEo4e/expo/1
+
+GET paginate
+/msEo4e/expo?_page=2&_limit=10
+
+POST
+/msEo4e/expo
+
+PUT
+/msEo4e/expo/1
+
+PATCH
+/msEo4e/expo/1
+
+DELETE
+/msEo4e/expo/1
